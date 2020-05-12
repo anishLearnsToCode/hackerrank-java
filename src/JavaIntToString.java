@@ -7,7 +7,5 @@ public class JavaIntToString {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
         String n = number + "";
-
-
     }
 }
