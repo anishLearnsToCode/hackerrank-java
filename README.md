@@ -20,5 +20,13 @@
 
 
 ## Java String
-| Problem | Solution Link |
-|---------|---------------|
+| Problem | Solution Link | Difficulty |
+|---------|---------------|------------|
+| [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringsIntroduction.java) | Easy |
+| [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubstring.java) | Easy |
+| [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubstringComparison.java) | Easy |
+| [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringReverse.java) | Easy |
+| [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnagrams.java) | Easy |
+| [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringTokens.java) | Easy |
+| [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/PatternSyntaxChecker.java) | Easy |
+| [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegex.java) | Easy |
