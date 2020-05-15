@@ -19,7 +19,7 @@
 
 
 
-## Java String
+## Java Strings
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringsIntroduction.java) | Easy |
@@ -46,7 +46,7 @@
 | [Java Method Overriding II (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverridingIISuperKeyword.java) | Easy |
 
 
-## Java BigNumber
+## Java BigDecimal
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | Medium |
@@ -63,4 +63,5 @@
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java1DArray.java) | Easy |
-| [Java Data Structures Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution]() | Easy |
+| [Java Data Structures Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) | Easy |
+| [Java Sub Array](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Solution]() | Easy |
