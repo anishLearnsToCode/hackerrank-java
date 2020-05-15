@@ -53,4 +53,5 @@
 ## Java BigNumber
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
-| [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution]() | Easy |
+| [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPrimalityTest.java) | Easy |
+| [Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution]() | Easy |
