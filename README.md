@@ -32,7 +32,7 @@
 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegex.java) | Easy |
 | [Java Regex II - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegexIIDuplicateWords.java) | Medium |
 | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/ValidUsernameRegularExpression.java) | Easy |
-| [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [Solution]() | Medium |
+| [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/TagContentExtractor.java) | Medium |
 
 
 ## Java Object Oriented Programming
@@ -57,3 +57,9 @@
 |---------|---------------|------------|
 | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPrimalityTest.java) | Easy |
 | [Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigInteger.java) | Easy |
+
+
+## Java Data Structures
+| Problem | Solution Link | Difficulty |
+|---------|---------------|------------|
+| [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution]() | Easy |
