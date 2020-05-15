@@ -31,4 +31,6 @@
 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/PatternSyntaxChecker.java) | Easy |
 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegex.java) | Easy |
 | [Java Regex II - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegexIIDuplicateWords.java) | Medium |
-| [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution]() |
+| [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritanceI.java) | Easy |
+| [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritenceII.java) | Easy |
+| [Valid Username Regular Expression](// https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Solution]() | Easy |
