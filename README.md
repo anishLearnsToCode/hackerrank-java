@@ -30,3 +30,5 @@
 | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringTokens.java) | Easy |
 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/PatternSyntaxChecker.java) | Easy |
 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegex.java) | Easy |
+| [Java Regex II - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaRegexIIDuplicateWords.java) | Medium |
+| [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution]() |
