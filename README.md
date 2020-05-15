@@ -47,4 +47,10 @@
 ## Java BigNumber
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
-| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Solution]() | Medium |
+| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | Medium |
+
+
+## Java BigNumber
+| Problem | Solution Link | Difficulty |
+|---------|---------------|------------|
+| [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution]() | Easy |
