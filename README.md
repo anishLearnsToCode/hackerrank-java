@@ -6,7 +6,7 @@
 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/WelcomeToJava.java) |
 | [Java StdIn and StdOut](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStdInAndStdOutI.java) |
 | [Java StdIn and StdOut II](https://www.hackerrank.com/challenges/java-stdin-and-stdout-2/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStdInAndStdOutII.java) |
-| [Java If_Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaIfElse.java) |
+| [Java If Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaIfElse.java) |
 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaOutputFormatting.java) |
 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaLoopsI.java) |
 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaLoopsII.java) |
@@ -42,3 +42,9 @@
 | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInterface.java) | Easy |
 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverriding.java) | Easy |
 | [Java Method Overriding II (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverridingIISuperKeyword.java) | Easy |
+
+
+## Java BigNumber
+| Problem | Solution Link | Difficulty |
+|---------|---------------|------------|
+| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Solution]() | Medium |
