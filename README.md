@@ -62,4 +62,5 @@
 ## Java Data Structures
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
-| [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution]() | Easy |
+| [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java1DArray.java) | Easy |
+| [Java Data Structures Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution]() | Easy |
