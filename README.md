@@ -64,4 +64,5 @@
 |---------|---------------|------------|
 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java1DArray.java) | Easy |
 | [Java Data Structures Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) | Easy |
-| [Java Sub Array](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Solution]() | Easy |
+| [Java Sub Array](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubArray.java) | Easy |
+| [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | [Solution]() | Easy |
