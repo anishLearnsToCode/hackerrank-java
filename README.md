@@ -95,13 +95,27 @@ The Java Domain is further Divided into the following sub-domain.
 |---------|---------------|------------|
 | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPrimalityTest.java) | Easy |
 | [Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigInteger.java) | Easy |
+| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | 
 
 
 ### Java Data Structures
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java1DArray.java) | Easy |
+| [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) |
+| [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubArray.java) |
 | [Java Data Structures Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) | Easy |
 | [Java Sub Array](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubArray.java) | Easy |
 | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaArraylist.java) | Easy |
 | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | [Solution]() | Medium |
+| [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array) | Medium | |
+| [Java List](https://www.hackerrank.com/challenges/java-list) | Easy | |
+| [Java Map](https://www.hackerrank.com/challenges/phone-book) | Easy | |
+| [Java Stack](https://www.hackerrank.com/challenges/java-stack) | Medium | |
+| [Java Hashset](https://www.hackerrank.com/challenges/java-hashset) | Easy | |
+| [Java Generics](https://www.hackerrank.com/challenges/java-generics) | Easy | |
+| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator) | Medium | |
+| [Java Sort](https://www.hackerrank.com/challenges/java-sort) | Easy | |
+| [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue) | Medium | |
+| [Java BitSet](https://www.hackerrank.com/challenges/java-bitset) | Easy | |
+| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | Medium | |
