@@ -21,7 +21,7 @@ on HackerRank:
 13. [Databases](https://www.hackerrank.com/domains/databases)
 14. [Regex](https://www.hackerrank.com/domains/regex)
 
-This repository contains solutions to the Data Structures domain part of HackerRank. My
+This repository contains solutions to the Java domain part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 I have also solved other domains on HackerRank that can be viewed at:
@@ -34,9 +34,9 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
 | [SQL](https://www.hackerrank.com/domains/sql) |  |
 
-The Java Domain is further Divided into the following sub-domain. 
+The Java Domain is further Divided into the following sub-domains. 
 
-## Sub Domains & Problems (+Solutions) in the Data Structures Domain
+## Sub Domains & Problems (+Solutions) in the Java Domain
 
 ### Java Introduction
 | Problem | Solution Link |
