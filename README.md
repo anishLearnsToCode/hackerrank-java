@@ -115,7 +115,7 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java Stack](https://www.hackerrank.com/challenges/java-stack) | | Medium |
 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset) | | Easy |
 | [Java Generics](https://www.hackerrank.com/challenges/java-generics) | | Easy |
-| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator) | | Medium |
+| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaComparator.java) | Medium |
 | [Java Sort](https://www.hackerrank.com/challenges/java-sort) | | Easy |
 | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue) | | Medium |
 | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset) | | Easy |
