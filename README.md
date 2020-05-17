@@ -77,13 +77,13 @@ The Java Domain is further Divided into the following sub-domain.
 | Problem| Solution Link | Difficulty |
 |--------|---------------|------------|
 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritanceI.java) | Easy |
-| [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritenceII.java) | Easy |
+| [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)    | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritenceII.java) | Easy |
 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAbstractClass.java) | Easy |
 | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInterface.java) | Easy |
 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverriding.java) | Easy |
 | [Java Method Overriding II (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverridingIISuperKeyword.java) | Easy |
-| [Java Iterator](https://www.hackerrank.com/challenges/java-iterator) | Easy | |
-| [Java instanceof Keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword) | Easy | |
+| [Java Iterator](https://www.hackerrank.com/challenges/java-iterator) | | Easy |
+| [Java instanceof Keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword) | | Easy |
 
 ### Java BigDecimal
 | Problem | Solution Link | Difficulty |
@@ -96,27 +96,51 @@ The Java Domain is further Divided into the following sub-domain.
 |---------|---------------|------------|
 | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPrimalityTest.java) | Easy |
 | [Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigInteger.java) | Easy |
-| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | 
+| [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | Medium | 
 
 
 ### Java Data Structures
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java1DArray.java) | Easy |
-| [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) |
-| [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubArray.java) |
+| [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) | Easy |
+| [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubArray.java) | Easy |
 | [Java Data Structures Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java2dArray.java) | Easy |
 | [Java Sub Array](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubArray.java) | Easy |
 | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaArraylist.java) | Easy |
 | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | [Solution]() | Medium |
-| [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array) | Medium | |
-| [Java List](https://www.hackerrank.com/challenges/java-list) | Easy | |
-| [Java Map](https://www.hackerrank.com/challenges/phone-book) | Easy | |
-| [Java Stack](https://www.hackerrank.com/challenges/java-stack) | Medium | |
-| [Java Hashset](https://www.hackerrank.com/challenges/java-hashset) | Easy | |
-| [Java Generics](https://www.hackerrank.com/challenges/java-generics) | Easy | |
-| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator) | Medium | |
-| [Java Sort](https://www.hackerrank.com/challenges/java-sort) | Easy | |
-| [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue) | Medium | |
-| [Java BitSet](https://www.hackerrank.com/challenges/java-bitset) | Easy | |
-| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | Medium | |
+| [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array) | | Medium |
+| [Java List](https://www.hackerrank.com/challenges/java-list) | |  Easy |
+| [Java Map](https://www.hackerrank.com/challenges/phone-book) | | Easy |
+| [Java Stack](https://www.hackerrank.com/challenges/java-stack) | | Medium |
+| [Java Hashset](https://www.hackerrank.com/challenges/java-hashset) | | Easy |
+| [Java Generics](https://www.hackerrank.com/challenges/java-generics) | | Easy |
+| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator) | | Medium |
+| [Java Sort](https://www.hackerrank.com/challenges/java-sort) | | Easy |
+| [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue) | | Medium |
+| [Java BitSet](https://www.hackerrank.com/challenges/java-bitset) | | Easy |
+| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | | Medium |
+
+
+### Java Exception Handling
+| Problem | Solution Link | Difficulty |
+|---------|---------------|------------|
+| [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | | Easy |
+| [Java Exception Handling (try-catch)](https://www.hackerrank.com/challenges/java-exception-handling) | | Easy |
+
+
+### Java Advanced
+| Problem |Solution Link | Difficulty |
+|---------|--------------|------------|
+| [Java VarArgs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs) | | Easy |
+| [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes) | | Easy |
+| [Can You Access?](https://www.hackerrank.com/challenges/can-you-access) | | Medium |
+| [Prime Checker](https://www.hackerrank.com/challenges/prime-checker) | | Medium |
+| [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory) | | Easy |
+| [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton) | | Easy |
+| [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern) | | Medium |
+| [Java Annotations](https://www.hackerrank.com/challenges/java-annotations) | | Medium |
+| [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance) | | Easy |
+| [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions) | | Medium |
+| [Java MD5](https://www.hackerrank.com/challenges/java-md5) | | Medium |
+| [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | | Medium |
