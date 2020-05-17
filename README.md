@@ -119,7 +119,7 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java Sort](https://www.hackerrank.com/challenges/java-sort) | | Easy |
 | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue) | | Medium |
 | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset) | | Easy |
-| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | | Medium |
+| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPriorityQueue.java) | Medium |
 
 
 ### Java Exception Handling
