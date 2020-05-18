@@ -82,7 +82,7 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInterface.java) | Easy |
 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverriding.java) | Easy |
 | [Java Method Overriding II (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverridingIISuperKeyword.java) | Easy |
-| [Java Iterator](https://www.hackerrank.com/challenges/java-iterator) | | Easy |
+| [Java Iterator](https://www.hackerrank.com/challenges/java-iterator) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaIterator.java) | Easy |
 | [Java instanceof Keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword) | | Easy |
 
 ### Java BigDecimal
