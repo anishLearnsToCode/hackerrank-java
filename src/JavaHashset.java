@@ -1,6 +1,9 @@
 // https://www.hackerrank.com/challenges/java-hashset/problem
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Objects;
+import java.util.Scanner;
+import java.util.Set;
 
 public class JavaHashset {
     public static void main(String[] args) {
