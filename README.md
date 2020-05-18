@@ -125,7 +125,7 @@ The Java Domain is further Divided into the following sub-domains.
 ### Java Exception Handling
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
-| [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | | Easy |
+| [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaExceptionHandling.java) | Easy |
 | [Java Exception Handling (try-catch)](https://www.hackerrank.com/challenges/java-exception-handling) | | Easy |
 
 
