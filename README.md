@@ -134,7 +134,7 @@ The Java Domain is further Divided into the following sub-domains.
 |---------|--------------|------------|
 | [Java VarArgs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaVarArgsSimpleAddition.java) | Easy |
 | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaReflectionAttributes.java) | Easy |
-| [Can You Access?](https://www.hackerrank.com/challenges/can-you-access) | | Medium |
+| [Can You Access?](https://www.hackerrank.com/challenges/can-you-access) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/CanYouAccess.java) | Medium |
 | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker) | | Medium |
 | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory) | | Easy |
 | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton) | | Easy |
