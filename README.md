@@ -142,5 +142,5 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnnotations.java) | Medium |
 | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/CovariantReturnTypes.java) | Easy |
 | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaLambdaExpression.java) | Medium |
-| [Java MD5](https://www.hackerrank.com/challenges/java-md5) | | Medium |
+| [Java MD5](https://www.hackerrank.com/challenges/java-md5) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/MD5.java) | Medium |
 | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256) | | Medium |
