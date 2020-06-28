@@ -1,34 +1,41 @@
 # HackerRank Java Domain Solutions
 
 HackerRank is an online platform that offers programmers the ability to test their
-sills, practice and learn something new. 
+sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
+and the following are the domains & tutorials on HackerRank:
 
-The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
-tutorials on HackerRank:
+<details>
+    <summary><b>Domains</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/domains/algorithms">Algorithms</a></li>
+        <li><a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a></li>
+        <li><a href="https://www.hackerrank.com/domains/mathematics">Mathematics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/c">C</a></li>
+        <li><a href="https://www.hackerrank.com/domains/cpp">C++</a></li>
+        <li><a href="https://www.hackerrank.com/domains/java">Java</a></li>
+        <li><a href="https://www.hackerrank.com/domains/python">Python</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ruby">Ruby</a></li>
+        <li><a href="https://www.hackerrank.com/domains/shell">Linux Shell</a></li>
+        <li><a href="https://www.hackerrank.com/domains/fp">Functional Programming</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ai">Artificial Intelligence</a></li>
+        <li><a href="https://www.hackerrank.com/domains/sql">SQL</a></li>
+        <li><a href="https://www.hackerrank.com/domains/databases">Databases</a></li>
+        <li><a href="https://www.hackerrank.com/domains/regex">Regex</a></li>
+    </ul>
+</details>
 
-## Domains
-1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
-2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
-3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
-4. [C](https://www.hackerrank.com/domains/c)
-5. [C++](https://www.hackerrank.com/domains/cpp)
-6. [Java](https://www.hackerrank.com/domains/java)
-7. [Python](https://www.hackerrank.com/domains/python)
-8. [Ruby](https://www.hackerrank.com/domains/ruby)
-9. [Linux Shell](https://www.hackerrank.com/domains/shell)
-10. [Functional Programming](https://www.hackerrank.com/domains/fp)
-11. [Artificial Intelligence](https://www.hackerrank.com/domains/ai)
-12. [SQL](https://www.hackerrank.com/domains/sql)
-13. [Databases](https://www.hackerrank.com/domains/databases)
-14. [Regex](https://www.hackerrank.com/domains/regex)
+<details>
+    <summary><b>Tutorials</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/interview">Interview Preparation Kit</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">30 Days of Code</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-statistics">10 Days of Statistics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10 Days of JavaScript</a></li>
+    </ul>
+</details>
 
-## Tutorials
-1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
-2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
-3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
-
-This repository contains solutions to the Java domain part of HackerRank. My
+This repository contains solutions to the 
+[Java Domain](https://www.hackerrank.com/domains/java) part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 I have also solved other domains on HackerRank that can be viewed at:
@@ -43,8 +50,17 @@ I have also solved other domains on HackerRank that can be viewed at:
 The Java Domain is further Divided into the following sub-domains. 
 
 ## Sub Domains & Problems (+Solutions) in the Java Domain
+Quick Links ⚡ : 
+[Java Introduction](#java-introduction-) |
+[Java Strings](#java-strings-) |
+[Java Object Oriented Programming](#java-object-oriented-programming-) |
+[Java BigDecimal](#java-bigdecimal-) |
+[Java BigNumber](#java-bignumber-) |
+[Java Data Structures](#java-data-structures-) |
+[Java exception Handling](#java-exception-handling-) |
+[Java Advanced](#java-advanced-) |
 
-### Java Introduction
+### Java Introduction [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link |
 |---------|---------------| 
 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/WelcomeToJava.java) |
@@ -63,7 +79,7 @@ The Java Domain is further Divided into the following sub-domains.
 
 
 
-### Java Strings
+### Java Strings [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringsIntroduction.java) | Easy |
@@ -79,7 +95,7 @@ The Java Domain is further Divided into the following sub-domains.
 | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/TagContentExtractor.java) | Medium |
 
 
-### Java Object Oriented Programming
+### Java Object Oriented Programming [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem| Solution Link | Difficulty |
 |--------|---------------|------------|
 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritanceI.java) | Easy |
@@ -91,13 +107,13 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaIterator.java) | Easy |
 | [Java instanceof Keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInstanceofKeyword.java) | Easy |
 
-### Java BigDecimal
+### Java BigDecimal [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | Medium |
 
 
-### Java BigNumber
+### Java BigNumber [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPrimalityTest.java) | Easy |
@@ -105,7 +121,7 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaBigDecimal.java) | Medium | 
 
 
-### Java Data Structures
+### Java Data Structures [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/Java1DArray.java) | Easy |
@@ -128,14 +144,14 @@ The Java Domain is further Divided into the following sub-domains.
 | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPriorityQueue.java) | Medium |
 
 
-### Java Exception Handling
+### Java Exception Handling [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem | Solution Link | Difficulty |
 |---------|---------------|------------|
 | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaExceptionHandling.java) | Easy |
 | [Java Exception Handling (try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaExceptionHandlingTryCatch.java) | Easy |
 
 
-### Java Advanced
+### Java Advanced [👆](#sub-domains--problems-solutions-in-the-java-domain)
 | Problem |Solution Link | Difficulty |
 |---------|--------------|------------|
 | [Java VarArgs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs) | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaVarArgsSimpleAddition.java) | Easy |
