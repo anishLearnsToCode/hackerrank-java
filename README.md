@@ -2,6 +2,7 @@
 
 ![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-java.svg)
 ![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 [![Generic badge](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 
 HackerRank is an online platform that offers programmers the ability to test their
