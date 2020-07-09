@@ -1,5 +1,9 @@
 # HackerRank Java Domain Solutions
 
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-java.svg)
+![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+[![Generic badge](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
 and the following are the domains & tutorials on HackerRank:
