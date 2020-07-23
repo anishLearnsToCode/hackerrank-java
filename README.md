@@ -2,7 +2,7 @@
 
 ![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-java.svg)
 ![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-68/68-1abc9c.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![hackerrank-python](https://img.shields.io/badge/hackerrank-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python)
