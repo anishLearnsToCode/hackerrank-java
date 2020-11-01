@@ -1,7 +1,6 @@
 # HackerRank Java Domain Solutions
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-68/68-1abc9c.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 HackerRank is an online platform that offers programmers the ability to test their
